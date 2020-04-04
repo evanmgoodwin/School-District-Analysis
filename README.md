@@ -14,3 +14,4 @@ After Maria discovered the math and reading score errors of all 9th graders at T
 
 ### District Summary
 The district 
+![new_district_summary](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_district_summary.png)
