@@ -29,10 +29,6 @@ As can be seen by the new top performing schools summary, Thomas High School is 
 
 
 ### Math and Reading Scores by Grade
-Math Scores:
-![new_math_scores_by_grade](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_math_scores_by_grade_summary.png)
-Reading Scores:
-![new_reading_scores_by_grade](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_reading_scores_by_grade_summary.png)
 
 The values for math and reading scores of Thomas High School ninth graders were replaced with the NaN; all other data was unaffected.
 
