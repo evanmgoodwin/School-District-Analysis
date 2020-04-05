@@ -25,6 +25,8 @@ The percentages of students passing math, passing reading and overall passing in
 ### Thomas High School's Performance
 ![new_top_fice_performing_summary](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_top_five_performing_summary.png)
 
+As can be seen by the new top performing schools summary, Thomas High School is no longer in the top five. It dropped from second place to eigth place for overall performance, and is now the lowest performing of all the charter schools.
+
 
 ### Math and Reading Scores by Grade
 
@@ -32,6 +34,7 @@ The percentages of students passing math, passing reading and overall passing in
 ### Scores by School Spending
 ![new_scores_by_school_spending_summary](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_scores_by_school_spending_summary.png)
 
+The percentages of students passing math, reading and both decreased in the $630-644 spending range. Math passing decreased by 6%, while reading and overall both decreased by 7%.
 
 
 
