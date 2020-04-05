@@ -30,6 +30,8 @@ As can be seen by the new top performing schools summary, Thomas High School is 
 
 ### Math and Reading Scores by Grade
 
+![new_math_scores_by_grade](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_math_scores_by_grade_summary.png) ![new_math_scores_by_grade](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_math_scores_by_grade_summary.png)
+
 
 ### Scores by School Spending
 ![new_scores_by_school_spending_summary](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_scores_by_school_spending_summary.png)
