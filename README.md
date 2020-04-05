@@ -16,7 +16,7 @@ After Maria discovered the math and reading score errors of all 9th graders at T
 
 ![new_district_summary](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_district_summary.png)
 
-The percentages of students passing math, passing reading and overall passing in the district each decreased by 1 percent. There was little to no change for the average math and reading scores (the average math score decresed by 0.1 percent).
+The percentages of students passing math, passing reading and overall passing in the district each decreased by 1%. There was little to no change for the average math and reading scores (the average math score decresed by 0.1%).
 
 ### School Summary
 ![new_school_summary](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_school_summary.png)
