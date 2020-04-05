@@ -7,7 +7,7 @@ After Maria discovered the math and reading score errors of all 9th graders at T
 - How is the Thomas High School's performance relative to other schools affected?
 - How are math and reading scores by grade affected?
 - How are scores by school spending affected?
-- How are sores by school size affected?
+- How are scores by school size affected?
 - How are scores by school type affected?
 
 ## Challenge Summary
@@ -29,16 +29,17 @@ As can be seen by the new top performing schools summary, Thomas High School is 
 
 
 ### Math and Reading Scores by Grade
+Math Scores:
+![new_math_scores_by_grade](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_math_scores_by_grade_summary.png)
+Reading Scores:
+![new_reading_scores_by_grade](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_reading_scores_by_grade_summary.png)
 
-![new_math_scores_by_grade](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_math_scores_by_grade_summary.png) ![new_math_scores_by_grade](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_math_scores_by_grade_summary.png)
-
+The values for math and reading scores of Thomas High School ninth graders were replaced with the NaN; all other data was unaffected.
 
 ### Scores by School Spending
 ![new_scores_by_school_spending_summary](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_scores_by_school_spending_summary.png)
 
 The percentages of students passing math, reading and both decreased in the $630-644 spending range. Math passing decreased by 6%, while reading and overall both decreased by 7%.
-
-
 
 ### Scores by School Size
 ![new_scores_by_school_size_summary](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_scores_by_school_size_summary.png)
