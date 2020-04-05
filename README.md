@@ -20,7 +20,7 @@ The percentages of students passing math, reading and both in the district each 
 ### School Summary
 ![new_school_summary](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_school_summary.png)
 
-In the new school summary, the average scores and percentages passing at Thomas High SChool were all affected by the removal of the ninth grade data. The decreases to the averages were infinitesimal (0.1% for reading and 0.05% for math). The percentages passing, however, decreased significantly. Math passing dropped by 26%, reading passing dropped by 27% and overall passing dropped by 26%.
+In the new school summary, the average scores and percentages passing at Thomas High School were all affected by the removal of the ninth grade data. The decreases to the averages were infinitesimal (0.1% for reading and 0.05% for math). The percentages passing, however, decreased significantly. Math passing dropped by 26%, reading passing dropped by 27% and overall passing dropped by 26%.
 
 ### Thomas High School's Performance
 ![new_top_fice_performing_summary](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_top_five_performing_summary.png)
