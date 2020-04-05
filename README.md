@@ -30,11 +30,17 @@ The percentages of students passing math, passing reading and overall passing in
 
 
 ### Scores by School Spending
+![new_scores_by_school_spending_summary](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_scores_by_school_spending_summary.png)
+
+
 
 
 ### Scores by School Size
+![new_scores_by_school_size_summary](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_scores_by_school_size_summary.png)
 
+Within the Medium school size range, the percentage of students who passed math, reading and the overall passing percentage each dropped by 6%. The average math and reading scores, however, stayed the same. 
 
 ### Scores by School Type
 ![new_scores_by_school_type_summary](https://github.com/evanmgoodwin/School-District-Analysis/blob/master/new_scores_by_school_type_summary.png)
 
+As we can see from the new scores by school type summary, the charter schools' % passing math and % passing reading each decreased by 4%. The overall passing percentage decreased by 3%. The average scores, however, stayed the same.
